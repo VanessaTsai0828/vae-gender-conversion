@@ -1,5 +1,6 @@
 # VAE-Based Gender Transformation on Face Images  
 🧠 使用 VAE 實現臉部性別轉換：將男性臉孔轉換為個人化的女性版本，保留原始特徵與風格。含 latent 空間分析與完整視覺化展示。
+
 🧬 Gender transformation using Variational Autoencoder: Converts male faces into personalized female versions via latent vector editing. Includes t-SNE visualization and identity preservation.
 
 ## 📌 Project Description 專案介紹
